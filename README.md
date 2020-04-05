@@ -21,65 +21,65 @@
 ### 메인 페이지
 ***
 <p align="center">
-<img src="/img/main.png" width="60%" height="40%" title="메인"></img>
+<img src="/img/메인.png" width="60%" height="40%" title="메인"></img>
 </p>   
 
 ### 로그인 페이지
 ***
 <p align="center">
-<img src="/img/로그인.png" width="60%" height="40%" title="로그인"></img>
+<img src="/img/로그인.PNG" width="60%" height="40%" title="로그인"></img>
 </p>   
 
 ### 회원목록 페이지
 ***
 <p align="center">
-<img src="/img/회원목록.png" width="60%" height="40%" title="회원목록"></img>
+<img src="/img/회원목록.PNG" width="60%" height="40%" title="회원목록"></img>
 </p>   
 
 ### 회원검색 페이지
 ***
 <p align="center">
-<img src="/img/회원검색.png" width="60%" height="40%" title="회원검색"></img>
+<img src="/img/회원검색.PNG" width="60%" height="40%" title="회원검색"></img>
 </p>   
 
 ### 회원등록 페이지
 ***
 <p align="center">
-<img src="/img/회원등록.png" width="60%" height="40%" title="회원등록"></img>
+<img src="/img/회원등록.PNG" width="60%" height="40%" title="회원등록"></img>
 </p>   
 
 ### 회원 비밀번호 수정 페이지
 ***
 <p align="center">
-<img src="/img/회원비번변경.png" width="60%" height="40%" title="회원비번변경"></img>
+<img src="/img/회원비번변경.PNG" width="60%" height="40%" title="회원비번변경"></img>
 </p>   
 
 ### 회원삭제 페이지
 ***
 <p align="center">
-<img src="/img/회원삭제.png" width="60%" height="40%" title="회원삭제"></img>
+<img src="/img/회원삭제.PNG" width="60%" height="40%" title="회원삭제"></img>
 </p>   
 
 ### 게시판 글목록 페이지
 ***
 <p align="center">
-<img src="/img/게시판글목록.png" width="60%" height="40%" title="게시판글목록"></img>
+<img src="/img/게시판글목록.PNG" width="60%" height="40%" title="게시판글목록"></img>
 </p>   
 
 ### 게시판 글쓰기 페이지
 ***
 <p align="center">
-<img src="/img/게시판글쓰기.png" width="60%" height="40%" title="게시판글쓰기"></img>
+<img src="/img/게시판글쓰기.PNG" width="60%" height="40%" title="게시판글쓰기"></img>
 </p>   
 
 ### 게시판 글수정 페이지
 ***
 <p align="center">
-<img src="/img/게시판글수정.png" width="60%" height="40%" title="게시판글수정"></img>
+<img src="/img/게시판글수정.PNG" width="60%" height="40%" title="게시판글수정"></img>
 </p>   
 
 ### 게시판 글삭제 페이지
 ***
 <p align="center"> 
-<img src="/img/게시판글삭제.png" width="60%" height="40%" title="게시판글삭제"></img>
+<img src="/img/게시판글삭제.PNG" width="60%" height="40%" title="게시판글삭제"></img>
 </p>
